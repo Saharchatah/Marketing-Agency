@@ -1,0 +1,70 @@
+
+.BA_hr_str_1{            
+
+        margin-top: 3rem;    
+        border-color:#FCAF3B;
+        border-style: none;
+        border-top-style:outset;
+        border-width: 2.2px;
+        width: 7.1%;
+        margin-bottom: 0;
+        right : 1%;
+        animation-name:anim2;
+        animation-duration:1s ;
+        position: relative;        
+
+    }
+
+
+.BA_hr_str_2{
+
+    border-color:#FCAF3B;
+    border-style: none;
+    border-top-style:outset;
+    border-width: 2.2px;
+    width: 6%;
+    position: relative;
+    left: 2%;
+    margin-top:0;    
+    animation-name: anim2;  
+    animation-duration: 1s;
+
+}
+
+
+
+.BA_h1_str{
+text-align: center;
+    font-weight: bold;
+    font-size: 2rem;
+    font-family: Poppins !important;
+    margin: 0;
+    animation-name: anim2;
+    animation-duration: 1.5s;
+    position: relative;
+ 
+}
+
+
+
+@keyframes anim1 {
+    from{right:20%}
+    to{right:0%}
+}
+
+
+@keyframes anim2 {
+    from{left:-50%}
+    to{left:0%}
+}
+
+
+
+
+.BA_storyParag{
+margin: auto;
+margin-bottom: 5%;
+max-width: 70%;
+width: 65%;
+
+}

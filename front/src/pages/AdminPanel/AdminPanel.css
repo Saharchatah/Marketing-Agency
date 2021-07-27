@@ -1,0 +1,33 @@
+.gray{
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /*  */
+    width: 50em;
+    height: 25em;
+    border-radius: 5em;
+
+}
+.sa_button{
+    background-color:orange;
+    margin: 1em;
+    width: 14em;
+    height: 3em;
+    
+  
+}
+.sa_link {
+    text-decoration: none;
+    color: black;
+ 
+}
+
+.maba3rf{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 9em auto;
+}

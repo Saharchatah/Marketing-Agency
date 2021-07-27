@@ -1,0 +1,54 @@
+
+.name1{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.FASPANGET{
+    color: red;
+}
+.div1{
+    display: flex;
+}
+.faradio{
+    display: flex;
+    flex-direction: column;
+}
+.faselect{
+    display: inline-block;
+    width: 55%;
+    border: 0.4px solid  rgb(178, 178, 238);
+}
+.faselect:focus{ outline:1px;}
+.email2{
+    display: inline-block;
+    width: 100%;
+    border: 0.4px solid  rgb(178, 178, 238);
+}
+.FAform{
+    margin-left: 6%;
+    text-align: left;
+}
+.sub{
+    margin-left: 58%;
+ 
+
+}
+
+.fainput{
+
+    border: 0.4px solid  rgb(178, 178, 238);
+margin-left: 4%;
+}
+.fatstarea{
+    border: 0.4px solid  rgb(178, 178, 238);
+
+}
+.fatstarea:focus{ outline:1px;}
+.fainput:focus{ outline:1px;}
+.email2:focus{ outline:1px;}
+.inp1{
+   
+    border: 0.4px solid  rgb(178, 178, 238);
+    
+}
+.inp1:focus{ outline:1px;}

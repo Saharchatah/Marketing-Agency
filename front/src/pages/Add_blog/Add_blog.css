@@ -1,0 +1,18 @@
+.fadiv{
+    text-align: center;
+   
+}
+.FA_inp{
+    
+    border: 0.4px solid  rgb(178, 178, 238);
+}
+
+.FA_inp:focus{ outline:1px;}
+
+
+.FixFooter{
+    position: absolute;
+
+    bottom: 0;
+    width: 100%;
+}

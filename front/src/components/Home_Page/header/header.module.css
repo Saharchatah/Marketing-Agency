@@ -1,0 +1,33 @@
+.nav0{
+
+background-color: #FCAF3B; 
+color: #1D4E56;   
+font-weight: bold;
+
+}
+
+.img{
+    height:auto;
+    max-width:100%;
+    width:70px;
+}
+.FALogout{
+    color: blue;
+}
+/* footer{
+    
+        position:absolute;
+        bottom: 0;
+        width: 100%;
+    
+} */
+
+.DA_Li_Log{
+ 
+    border: 1px solid #ffffff;
+    padding: 0;
+    background-color:#ffb11f ;
+    border-radius: 20px;
+
+   
+}

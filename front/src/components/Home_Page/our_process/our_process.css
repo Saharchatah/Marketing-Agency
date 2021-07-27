@@ -1,0 +1,132 @@
+@media only screen and (max-width: 535px) {
+    .DA_all{ 
+         font-size: small;
+         margin:0px; 
+         
+        
+    } 
+    }
+    
+    .DA_ourprocess{
+    margin: 0.9rem;
+    text-align: center;
+    }
+    
+    .DA_h1{
+    /* margin-bottom:0; */
+    /* padding: 0; */
+    height: 0.8rem;
+    text-align: center;
+    animation: pro 1s 1;
+    position:relative;
+    
+    }
+    .DA_h2_1 {
+        margin-bottom: 2rem;
+        padding: 0;
+        height: 0;
+        animation: pro3 1.2s 1;
+        position:relative;
+        color:#fcaf3b ;
+           
+    }
+    
+    .DA_h2_2{
+    margin-bottom: 4.5rem;
+    margin-top:0;
+    height: 0;
+    padding: 0;
+    animation: pro3 1.5s 1;
+    position:relative;
+    color:#fcaf3b ;
+    }
+    .DA_h2_3{
+        text-align: center;
+        /* animation: pro 1s 1; */
+        position:relative;
+         animation: pro3 1s 1; 
+    
+    }
+    
+    
+    .DA_body {
+         background:url("agency.jpg") ; 
+         /* background-attachment: fixed; */
+         height: 100%;
+         /* Center and scale the image nicely */
+         background-position: center;
+         background-repeat: no-repeat;
+         background-size: cover;
+         /*make enjoyable font-color*/
+         color: #393e46;
+         /* padding */
+         padding-bottom:50px;
+         padding-top: 15px; 
+        
+       
+         
+    }
+    .DA_p{
+        text-align: center;
+        position:relative;
+        animation: pro2 1s 1;
+         margin-top: 0;
+        
+           
+    }
+    @keyframes pro2{
+        from{bottom:-50px;}
+        to{bottom:0px;}
+        
+    }
+    
+    /* h2{
+        animation: pro3 1s 1;
+        position:relative;
+        color:#fcaf3b ;
+    
+    } */
+    @keyframes pro3{
+        from{left:-500px;}
+        to{left:0px;}
+        
+    }
+    /* h1 { */
+        /* text-align: center; */
+        /* animation: pro 1s 1; */
+        /* position:relative; */
+    /*  */
+    /* } */
+    
+    .DA_anim_pr{
+        text-align: center;
+        position:relative;
+        animation: pro 1s 1;
+        margin-left: 200px;
+        
+       
+    }
+    
+    @keyframes pro {
+        from{left:-500px}
+        to{left:0px}
+    }
+    .DA_anim1_pr{
+        text-align: center;
+
+        position:relative;
+        animation: pro1 1s 1;
+        margin-right: 200px;
+        
+       
+    }
+    
+    
+    @keyframes pro1 {
+        from{right:-800px}
+        to{right:0px}
+    }
+    .DA_icon{
+        height: 40px;
+        width:40px;
+    }

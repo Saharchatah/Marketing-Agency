@@ -1,0 +1,144 @@
+@media only screen and (max-width: 635px) {
+
+
+
+  .FAb{ 
+    font-size: small; 
+    font-weight: bold;
+    } 
+
+    .fa_wrapper_bloglist{
+    margin: auto;
+    max-width: 100%;
+    width: 100%;
+    
+  }
+
+
+  .FATitle{
+    height:0;
+    display: none;
+    text-align: center;
+    font-size: medium;
+    display: block;
+    border: solid 0.1rem orange  !important;
+    overflow: hidden;
+    transition: 1.5s ease;
+
+  }
+
+    }
+
+
+    @media only screen and (min-width: 636px) and (max-width:800px){
+
+
+
+    .FAb{ 
+      font-size: small; 
+      font-weight: bold;
+      /* padding-right: 2.5%; */
+
+      } 
+
+      .fa_wrapper_bloglist{
+      margin: auto;
+      max-width: 100%;
+      width: 90%;
+      
+    }
+
+   
+
+    .FATitle{
+
+      height:0;
+      display: none;
+      text-align: center;
+      font-size: medium;
+      display: block;
+      border: solid 1rem orange;
+      overflow: hidden;
+      transition: 1.5s ease;
+  
+      }
+
+
+  } 
+
+
+
+
+
+  
+.fa_lisblog_container{
+  margin-left: 2%;
+}
+
+.BA_overlay {
+    width: 100%;
+    height: 80%;
+    transition: 1s ease;
+  }
+
+.haraki:hover .BA_overlay {
+     height: 50%;
+  }
+
+.haraki:hover  .FATitle{
+
+    height:30%;
+
+ }
+
+
+
+
+ .FATitle{
+
+  height:0;
+  display: none;
+  text-align: center;
+  font-size: medium;
+  display: block;
+  border: solid 1rem orange ;
+  overflow: hidden;
+  transition: 1.5s ease;
+
+  }
+
+
+
+
+
+    /* .fa_wrapper_bloglist{
+      margin: auto;
+      max-width: 70%;
+      width: 65%;
+    } */
+
+
+
+.haraki:hover .FAb {
+
+    display: block;
+    padding: 1rem;
+    padding-top: 0;
+
+  }
+
+.FAb{
+  display: none;
+}
+
+.fa_blogsList_footer{
+    margin-top: 1rem;
+    position:absolute;
+    bottom: 0;
+    width: 100%;
+
+}
+
+
+
+

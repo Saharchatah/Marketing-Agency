@@ -1,0 +1,27 @@
+
+.bg_p{
+
+        color:#FCAF3B ;
+        font-size: 1.5rem;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        
+        
+}
+
+
+.bg_container{
+
+ /* The image used */
+  
+ /*full height*/
+ height: 100%; 
+ /* make enjoyable font-color */
+ color: #1D4E56;
+ /* padding */
+ padding: 15%;
+
+}
+.DA_H1_H{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style:italic;
+}

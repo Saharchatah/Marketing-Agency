@@ -1,0 +1,67 @@
+
+
+ .pic123{
+    background-image: url(..//..//assets/images/2.jpg);
+    background-repeat: no-repeat;
+     /* opacity: 0.7;    */
+      background-attachment:fixed;  
+    padding: 100px; 
+     margin: 5% 11%;  
+    background-position: center;
+    
+} 
+
+
+
+.cc{
+color: black;
+    font-weight:bold;
+    font-size: 25px;
+}
+/* .kkk{
+  
+   
+    display: flex;
+ 
+    
+}
+.first{
+   padding-right: 10em;
+
+}
+.second{
+    padding-right: 10em;
+}
+.third{
+    padding-right: 4em;
+} */
+
+
+.test{
+    height: 700px;
+    width: 500px;
+    background-color: orange;
+}
+/* .first{
+    padding-right: 5em;
+} */
+
+.mycall{
+    width: 50px;
+    height: 50px;
+   
+}
+/* @media screen and (max-width:200px){
+   .container div {
+    flex-direction: column;   
+   }
+} */
+
+
+.first,
+.second,
+.third{
+    width: 230px; 
+    margin:0 auto;
+   
+}

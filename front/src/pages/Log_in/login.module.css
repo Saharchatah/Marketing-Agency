@@ -1,0 +1,78 @@
+
+
+    
+    .label_log{ 
+      display:block;  
+    }
+  
+    .input_log{
+      margin-bottom: 1%;
+      border: 1px solid;
+      border-radius: 20px;
+         
+  }  
+  
+  .input_log:focus{outline: 0;}
+  
+  .a{
+      color:#0397E6;
+      text-decoration: none;
+  }
+
+  .a:hover{
+   text-decoration: none;   
+  }
+  .msg{
+    color: red;
+  }
+  
+  /*classes*/ 
+  
+  
+  
+  
+  /* whole page */
+  
+  .Container_1{
+  
+      margin: auto;
+  }
+  
+  
+  /* image of the page */
+  
+  .img_div{
+  position: relative;
+  margin-top: 1rem;
+  
+  }
+  
+  
+  .img_logo{
+      height:auto;
+      max-width:100%;
+      width:100px;
+  }
+  
+  
+  /* Button of Sign in */
+  
+  .btn {
+      font-family: georgia;
+      font-weight: bold;
+      color: #F2F2F2 !important;
+      font-size: 14px;
+      text-shadow: 1px 1px 0px #7CACDE;
+      box-shadow: 1px 1px 1px #BEE2F9;
+      padding: 10px 25px;
+      border-radius: 40px;
+      border: 0px solid #3866A3;
+      background: #39DCEE;
+      margin: 1%;
+    }
+    .btn:hover {
+      color: #FFFAFA !important;
+      background: #3A98CF;
+    }
+    
+  

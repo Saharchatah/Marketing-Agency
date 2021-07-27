@@ -1,0 +1,59 @@
+.sa_section3{
+    margin-top: 10%;
+  animation: ppp 1.7s 1;
+  position: relative;
+
+}
+
+@keyframes ppp {
+    from{right:-1000px}
+    to{right:0px}
+}
+
+
+.sa_abim{
+  width:600;
+  height: 650;
+    animation: iii 1.7s 1;
+    position: relative;
+   }
+
+   @keyframes iii {
+    from{left:-1000px}
+    to{left:0px}}
+
+    .sa_section1{
+        text-align: center;
+
+
+    }
+
+    .sa_firsth{
+        color:#fcaf3b;
+        height: 15px;
+        margin-right: 0.01%;
+        position:relative;
+        animation: sa_hh 1s 1;
+
+    }
+
+    .sa_secondh{
+        color:#fcaf3b;
+        margin-left: 3em;
+        position:relative;
+        animation: sa_hh 1.5s 1;
+        padding-top: 0.5em;
+    }
+
+    .sa_ourstory{
+        color: #1f2732;
+       height: 1px;
+       position:relative;
+       animation: sa_hh 2s 1;
+       padding-top: 0.5em;
+    }
+
+    @keyframes sa_hh {
+        from{left:-1000px}
+        to{left:0px}
+    }

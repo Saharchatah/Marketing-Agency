@@ -1,0 +1,62 @@
+.pic12333{
+    background-image: url(..//..//assets/images/digital-marketing-home.jpg);
+    background-repeat: no-repeat;
+
+      background-attachment:fixed;
+    padding: 100px; 
+     margin: 5% 11%;
+
+    background-position: center;
+
+
+} 
+
+
+@keyframes sa_hh {
+    from{left:-1000px}
+    to{left:0px}
+}
+
+.hereweare{
+    position:relative;
+    animation: sa_hh 1.5s 1;
+    color: orange;
+}
+
+
+
+.editingg{
+    margin-top: -3em;
+}
+
+.myanimationn{
+
+    margin-top: -1em;
+    margin-right: 5em;
+}
+
+.hereplease{
+    margin-top: -1em;
+
+}
+
+.widthforr{
+    font-size: 1.3em;
+}
+
+.mmm{
+    margin-left: -4em;
+    font-size: 15px;
+
+}
+
+
+.iim1{
+    width: 40px;
+    height: 40px;
+}
+
+
+h5{
+    font-size: 20px;
+}

@@ -1,0 +1,95 @@
+/* .usersdesign{
+    background-color: cornflowerblue;
+    font-size: 1.5em;
+    width: 22em;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 2em;
+    height: 12em;
+    margin-top: 2em;
+    position: absolute;
+}
+
+.llll{
+justify-content: center;
+border-width: thick;
+
+
+}
+
+
+.boo{
+    width: 150px;
+    height: 150px;
+    margin-top: 2em;
+}
+
+.chekk{
+    width: 50px;
+    height: 40px;
+    margin-left: 1em;
+    margin-top: 0em;
+}
+
+
+
+.mybuttona{
+    margin-top: 5rem;
+    margin-left: 14rem;
+    width: 5em;
+    height: 2em;
+}
+
+.boxcheck{
+    display: flex;
+    flex-direction: row;
+    margin-top: -5em;
+    margin-left: 2em;
+}
+
+.myinfoss{
+    margin-top: 2em;
+} */
+ 
+ #customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    margin-top: 3em;
+    margin-right: 3em;
+    margin-bottom: 3em;
+    margin-left: 3em;
+  }
+  
+  #customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #customers tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #customers tr:hover {background-color: #ddd;}
+  
+  #customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color:orange;
+    color: white;
+} 
+
+.chekk{
+    height: 1.5em;
+    width: 100%;
+}
+
+.mybuttona{
+
+height:1%;
+
+} 
+
+.tz8ir{
+    width:10%
+    
+}

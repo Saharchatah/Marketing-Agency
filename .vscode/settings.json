@@ -1,0 +1,8 @@
+{
+    "git.ignoreLimitWarning": true,
+    "files.exclude": {
+        "back/node_modules": true,
+        "front/node_modules": true,
+        "node_modules": true
+    }
+}

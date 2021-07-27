@@ -1,0 +1,71 @@
+ /* .mymessg{
+
+      border: 1px solid orange;
+        border-radius: 4px;
+        padding: 8px;
+        margin: 8px auto;
+        max-width: 300px;
+        border-width: 5px;
+      }
+
+      .allpagee{
+          background-color: grey;
+      }  */
+      .allpagee{
+  
+  
+        display: flex;
+       flex-direction: row; 
+       flex-wrap: wrap;
+        
+       
+      
+     }
+           .mymessg{
+             box-shadow: 0 5px 15px rgba(0, 0, 0, .1);
+             border-radius: 10px;
+     
+             margin: 20px;
+             box-sizing:content-box;
+             overflow: hidden;
+             width: 20em;
+             
+           }
+     
+           .shijdid{
+             position: relative;
+             background-color: orange;
+             width: 18em;
+             height: 5em;
+             width: 100%;
+             justify-content: center;
+             align-items: center;
+            
+             
+     
+           }
+     
+           .bb{
+             margin-right: 5em;
+             color: white;
+             font-size: 1em;
+             font-weight: bold;
+           background-color:#1D4E56;
+           width: 100%;
+           background-image: url(./trash.png);
+           background-repeat: no-repeat;
+           background-position-x: center;
+           background-position-y: center;
+           background-size: 3em;
+           height: 3em;
+           
+     
+           }
+     
+           .vc{
+             
+             margin-left: 2.4em;
+             
+           }
+     
+           
